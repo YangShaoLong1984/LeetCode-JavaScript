@@ -1,0 +1,2 @@
+# LeetCode-JavaScript
+记录用JavaScript刷LeetCode的点点滴滴
